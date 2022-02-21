@@ -1,0 +1,7 @@
+<modification>
+    <name>Add Product API</name>
+    <version>1.0.0</version>
+    <author>vali-kh</author>
+    <link>https://github.com/vali-kh/</link>
+    <description>API for Android app to add products briefly and fast by name , pic , price , quantity , model just through your app. i made the android app for this purpose with java and Retrofit you can find the complete sorce code form https://github.com/vali-kh/ </description>
+</modification>
